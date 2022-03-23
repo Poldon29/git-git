@@ -1,2 +1,2 @@
 print("XD")
-print("najnowsze")
+print("najnowszev2")
